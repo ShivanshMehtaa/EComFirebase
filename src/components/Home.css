@@ -1,0 +1,13 @@
+.slider-head{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    /* background-color: rgb(117, 116, 116); */
+}
+
+.slider-head p{
+    font-size: 55px;
+    font-weight: 700;
+    color: #ffbb00;
+    /* background-color: gray; */
+}
